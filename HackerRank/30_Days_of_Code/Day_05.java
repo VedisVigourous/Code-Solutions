@@ -2,7 +2,7 @@
  * Day 5: Loops
  * Link: https://www.hackerrank.com/challenges/30-loops
  * Difficulty: Easy 
- * Language Used: Java 8
+ * Language Used: Java 15
  * 
  */
 
