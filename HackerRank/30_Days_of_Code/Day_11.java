@@ -1,5 +1,5 @@
 /* 
- * Day 10: Binary Numbers
+ * Day 11: 2D Arrays
  * Link: https://www.hackerrank.com/challenges/30-2d-arrays
  * Difficulty: Easy 
  * Language Used: Java 15
