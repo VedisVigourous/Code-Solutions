@@ -1,6 +1,6 @@
 /*
- * Day 12: Inheritance
- * Link: https://www.hackerrank.com/challenges/30-inheritance
+ * Day 13: Abstract Classes
+ * Link: https://www.hackerrank.com/challenges/30-abstract-classes
  * Difficulty: Easy
  * Language Used: Java 15
  *
