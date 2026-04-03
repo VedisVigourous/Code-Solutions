@@ -7,29 +7,36 @@
  */
 
 import java.util.Scanner;
+import java.util.Arrays;
 
 class Difference {
-      private int[] elements;
-      public int maximumDifference;
-    
-    Difference (int [] arr){
+    private int[] elements;
+    public int maximumDifference;
+
+    Difference(int [] arr){
         this.elements = arr;
     }
-    
-    void computeDifference(){
-        int max = Integer.MIN_VALUE;
-        int min = Integer.MAX_VALUE;
-        
-        for(int i=0 ; i < elements.length ; i++){
-            if(elements[i] > max){
-                max = elements[i];
-            }
-            if(elements[i] < min){
-                min = elements[i];
+
+    public void computeDifference() {
+        /* 
+        // APPROACH 1: Brute Force (My original logic)
+        // Time Complexity: O(N^2)
+        this.maximumDifference = 0;
+        for (int i = 0; i < elements.length; i++) {
+            for (int j = 0; j < elements.length; j++) {
+                int diff = Math.abs(elements[i] - elements[j]);
+                if (diff > maximumDifference) {
+                    maximumDifference = diff;
+                }
             }
         }
-        
-        maximumDifference = max - min;
+        */
+       
+
+        // APPROACH 2: Optimized Sorting (My final solution)
+        // Time Complexity: O(N log N)
+        Arrays.sort(elements);
+        this.maximumDifference = Math.abs(elements[elements.length - 1] - elements[0]);
     }
 }
 
