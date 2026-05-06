@@ -2,7 +2,7 @@
  * Day 19: Interfaces
  * Link: https://www.hackerrank.com/challenges/30-interfaces/
  * Difficulty: Easy
- * Language Used: Java 8
+ * Language Used: Java 15
  *
  */
 
