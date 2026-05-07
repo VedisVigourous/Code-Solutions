@@ -48,3 +48,18 @@ public class Solution {
         System.out.printf("Last Element: %d" , a.get(n-1));
     }
 }
+
+/* -- Explanation: Sort the array using bubble sort, count the swaps, and print the number of swaps along with the first and last elements.
+
+   -- Logic used:
+      1. Read the array size and values
+      2. Repeatedly compare adjacent elements and swap if needed
+      3. Count each swap while bubbling the largest values to the end
+      4. Print the total swaps, first element, and last element
+*/
+
+/* By: Vadanta Kumar Chauhaan
+ * HackerRank: https://www.hackerrank.com/profile/codegrounds666
+ * GitHub: https://github.com/VedisVigourous
+ * Contact vadanta592007@hotmail.com
+ */
