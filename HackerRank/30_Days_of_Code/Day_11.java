@@ -44,3 +44,18 @@ public class Solution {
     }
 }
 
+/* -- Explanation: Scan every possible 3x3 hourglass in the 6x6 matrix, compute each sum, and keep the maximum one found.
+
+   -- Logic used:
+      1. Read the full 6x6 grid into a 2D array
+      2. Move a 3x3 window across all valid starting positions
+      3. Sum the 7 hourglass cells for each window
+      4. Track and print the largest sum
+*/
+
+/* By: Vadanta Kumar Chauhaan
+ * HackerRank: https://www.hackerrank.com/profile/codegrounds666
+ * GitHub: https://github.com/VedisVigourous
+ * Contact vadanta592007@hotmail.com
+ */
+
