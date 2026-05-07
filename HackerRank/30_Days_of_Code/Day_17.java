@@ -43,3 +43,18 @@ public class Solution {
         }
     }
 }
+
+/* -- Explanation: Build a calculator method that computes base^power, while rejecting negative inputs with an exception.
+
+   -- Logic used:
+      1. Read each test case with a base and exponent
+      2. Throw ArithmeticException if either value is negative
+      3. Otherwise multiply the base repeatedly power times
+      4. Print the result or the required error message
+*/
+
+/* By: Vadanta Kumar Chauhaan
+ * HackerRank: https://www.hackerrank.com/profile/codegrounds666
+ * GitHub: https://github.com/VedisVigourous
+ * Contact vadanta592007@hotmail.com
+ */
