@@ -76,3 +76,9 @@ Insert 1: head -> [2|*] -> [3|*] -> [4|*] -> [1|null]
 Output: 2 3 4 1
 
 Note: Head always points to the first value only as head is not manipulated after the first insert. We only manipulate temp to find the end of the list and attach new nodes there. and return the initial head to main so it can keep track of the list start. */
+
+/* By: Vadanta Kumar Chauhaan
+ * HackerRank: https://www.hackerrank.com/profile/codegrounds666
+ * GitHub: https://github.com/VedisVigourous
+ * Contact vadanta592007@hotmail.com
+ */
