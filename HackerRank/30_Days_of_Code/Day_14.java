@@ -58,3 +58,18 @@ public class Solution {
         System.out.print(difference.maximumDifference);
     }
 }
+
+/* -- Explanation: Find the maximum absolute difference between any two elements by sorting the array and comparing the smallest and largest values.
+
+   -- Logic used:
+      1. Read all integers into an array
+      2. Sort the array in ascending order
+      3. Subtract the first element from the last element
+      4. Store the result in maximumDifference and print it
+*/
+
+/* By: Vadanta Kumar Chauhaan
+ * HackerRank: https://www.hackerrank.com/profile/codegrounds666
+ * GitHub: https://github.com/VedisVigourous
+ * Contact vadanta592007@hotmail.com
+ */
