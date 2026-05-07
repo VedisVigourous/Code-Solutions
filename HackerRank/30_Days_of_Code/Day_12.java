@@ -70,3 +70,18 @@ public class Solution {
         obj.calculate(avg);
     }
 }
+
+/* -- Explanation: Use inheritance to store a student's name and ID, then compute the average score and print the corresponding grade.
+
+   -- Logic used:
+      1. Read the student's personal details and all test marks
+      2. Compute the average score from the input values
+      3. Create a Student object from the parent Person class
+      4. Print the profile details and the grade based on the average
+*/
+
+/* By: Vadanta Kumar Chauhaan
+ * HackerRank: https://www.hackerrank.com/profile/codegrounds666
+ * GitHub: https://github.com/VedisVigourous
+ * Contact vadanta592007@hotmail.com
+ */
