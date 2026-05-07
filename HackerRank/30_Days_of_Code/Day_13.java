@@ -48,3 +48,18 @@ public class Solution {
         book.display();
     }
 }
+
+/* -- Explanation: Implement an abstract Book class, extend it with MyBook, and print the title, author, and price from the concrete subclass.
+
+   -- Logic used:
+      1. Read title, author, and price from input
+      2. Store them in a MyBook object that extends Book
+      3. Override display() to print all required details
+      4. Call display through the abstract Book reference
+*/
+
+/* By: Vadanta Kumar Chauhaan
+ * HackerRank: https://www.hackerrank.com/profile/codegrounds666
+ * GitHub: https://github.com/VedisVigourous
+ * Contact vadanta592007@hotmail.com
+ */
