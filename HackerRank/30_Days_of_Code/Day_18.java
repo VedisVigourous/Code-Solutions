@@ -58,3 +58,18 @@ public class Solution {
 
     }
 }
+
+/* -- Explanation: Use a stack and a queue to compare a word from both ends and determine whether it is a palindrome.
+
+    -- Logic used:
+        1. Read the input word and split it into characters
+        2. Push each character onto a stack and enqueue it into a queue
+        3. Compare the popped and dequeued characters for half the string
+        4. Print whether the word is a palindrome
+*/
+
+/* By: Vadanta Kumar Chauhaan
+ * HackerRank: https://www.hackerrank.com/profile/codegrounds666
+ * GitHub: https://github.com/VedisVigourous
+ * Contact vadanta592007@hotmail.com
+ */
