@@ -6,15 +6,13 @@
  *
  */
 
-
-
 public static Node removeDuplicates(Node head) {
     if(head == null){
         return head;
     }  
       
     Node temp = head;
-    while(temp.next !=null){
+    while(temp!= null && temp.next !=null){
         if(temp.next.data == temp.data){
             temp.next = temp.next.next;
         }
@@ -24,7 +22,6 @@ public static Node removeDuplicates(Node head) {
     }
     return head;
 }
-
 
 
 // Explanation: 
