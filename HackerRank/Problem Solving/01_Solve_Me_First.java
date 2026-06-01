@@ -1,4 +1,4 @@
-/* Problem: Solve me First 
+﻿/* Problem: Solve me First 
    Link: https://www.hackerrank.com/challenges/solve-me-first/problem
    Difficulty: Easy 
    Language Used: Java8*/
@@ -29,3 +29,12 @@ public class Solution {
         System.out.println(sum);
    }
 }
+
+/*
+ * Author: Vadanta Kumar Chauhaan
+ * HackerRank: https://www.hackerrank.com/profile/codegrounds666
+ * GitHub: https://github.com/VedisVigourous
+ * LinkedIn: https://www.linkedin.com/in/vadanta
+ * Contact: vadanta592007@hotmail.com
+ * Copyright (c) 2026 Vadanta Kumar Chauhaan. All rights reserved.
+ */
