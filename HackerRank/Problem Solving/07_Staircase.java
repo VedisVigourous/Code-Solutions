@@ -1,4 +1,4 @@
-/* Problem: Staircase
+﻿/* Problem: Staircase
    Link: https://www.hackerrank.com/challenges/staircase
    Difficulty: Easy 
    Language Used: Java8*/
@@ -51,3 +51,12 @@ public class Solution {
         bufferedReader.close();
     }
 }
+
+/*
+ * Author: Vadanta Kumar Chauhaan
+ * HackerRank: https://www.hackerrank.com/profile/codegrounds666
+ * GitHub: https://github.com/VedisVigourous
+ * LinkedIn: https://www.linkedin.com/in/vadanta
+ * Contact: vadanta592007@hotmail.com
+ * Copyright (c) 2026 Vadanta Kumar Chauhaan. All rights reserved.
+ */
