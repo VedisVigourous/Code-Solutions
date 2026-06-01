@@ -1,4 +1,4 @@
-/* Problem: Java Stdin and Stdout II
+﻿/* Problem: Java Stdin and Stdout II
    Link: https://www.hackerrank.com/challenges/java-stdin-stdout
    Difficulty: Easy 
    Language Used: Java8*/
@@ -23,3 +23,12 @@ public class Solution {
         System.out.println("Int: " + i);
     }
 }
+
+/*
+ * Author: Vadanta Kumar Chauhaan
+ * HackerRank: https://www.hackerrank.com/profile/codegrounds666
+ * GitHub: https://github.com/VedisVigourous
+ * LinkedIn: https://www.linkedin.com/in/vadanta
+ * Contact: vadanta592007@hotmail.com
+ * Copyright (c) 2026 Vadanta Kumar Chauhaan. All rights reserved.
+ */
