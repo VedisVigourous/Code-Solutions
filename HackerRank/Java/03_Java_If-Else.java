@@ -1,4 +1,4 @@
-/* Problem: Java If-Else
+﻿/* Problem: Java If-Else
    Link: https://www.hackerrank.com/challenges/java-if-else
    Difficulty: Easy 
    Language Used: Java8*/
@@ -35,3 +35,12 @@ public class Solution {
         }
     }
 }
+
+/*
+ * Author: Vadanta Kumar Chauhaan
+ * HackerRank: https://www.hackerrank.com/profile/codegrounds666
+ * GitHub: https://github.com/VedisVigourous
+ * LinkedIn: https://www.linkedin.com/in/vadanta
+ * Contact: vadanta592007@hotmail.com
+ * Copyright (c) 2026 Vadanta Kumar Chauhaan. All rights reserved.
+ */
