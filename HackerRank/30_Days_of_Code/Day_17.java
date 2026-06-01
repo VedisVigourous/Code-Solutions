@@ -1,4 +1,6 @@
-/*
+﻿
+
+/* 
  * Day 17: More Exceptions
  * Link: https://www.hackerrank.com/challenges/30-more-exceptions
  * Difficulty: Easy
@@ -53,8 +55,13 @@ public class Solution {
       4. Print the result or the required error message
 */
 
-/* By: Vadanta Kumar Chauhaan
+
+
+/*
+ * Author: Vadanta Kumar Chauhaan
  * HackerRank: https://www.hackerrank.com/profile/codegrounds666
  * GitHub: https://github.com/VedisVigourous
- * Contact vadanta592007@hotmail.com
+ * LinkedIn: https://www.linkedin.com/in/vadanta
+ * Contact: vadanta592007@hotmail.com
+ * Copyright (c) 2026 Vadanta Kumar Chauhaan. All rights reserved.
  */

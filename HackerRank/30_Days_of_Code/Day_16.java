@@ -1,4 +1,6 @@
-/*
+﻿
+
+/* 
  * Day 16: Exceptions - String to Integer
  * Link: https://www.hackerrank.com/challenges/30-exceptions-string-to-integer
  * Difficulty: Easy
@@ -35,8 +37,13 @@ public class Solution {
       4. Catch any exception and print "Bad String"
 */
 
-/* By: Vadanta Kumar Chauhaan
+
+
+/*
+ * Author: Vadanta Kumar Chauhaan
  * HackerRank: https://www.hackerrank.com/profile/codegrounds666
  * GitHub: https://github.com/VedisVigourous
- * Contact vadanta592007@hotmail.com
+ * LinkedIn: https://www.linkedin.com/in/vadanta
+ * Contact: vadanta592007@hotmail.com
+ * Copyright (c) 2026 Vadanta Kumar Chauhaan. All rights reserved.
  */

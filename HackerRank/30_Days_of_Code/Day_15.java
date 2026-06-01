@@ -1,4 +1,6 @@
-/*
+﻿
+
+/* 
  * Day 15: Linked List
  * Link: https://www.hackerrank.com/challenges/30-linked-list 
  * Difficulty: Easy
@@ -77,8 +79,13 @@ Output: 2 3 4 1
 
 Note: Head always points to the first value only as head is not manipulated after the first insert. We only manipulate temp to find the end of the list and attach new nodes there. and return the initial head to main so it can keep track of the list start. */
 
-/* By: Vadanta Kumar Chauhaan
+
+
+/*
+ * Author: Vadanta Kumar Chauhaan
  * HackerRank: https://www.hackerrank.com/profile/codegrounds666
  * GitHub: https://github.com/VedisVigourous
- * Contact vadanta592007@hotmail.com
+ * LinkedIn: https://www.linkedin.com/in/vadanta
+ * Contact: vadanta592007@hotmail.com
+ * Copyright (c) 2026 Vadanta Kumar Chauhaan. All rights reserved.
  */

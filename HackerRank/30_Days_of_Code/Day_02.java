@@ -1,4 +1,4 @@
-/* 
+﻿/* 
  * Day 2: Operators
  * Link: https://www.hackerrank.com/challenges/30-operators
  * Difficulty: Easy 
@@ -49,8 +49,11 @@ public class Solution {
 
 // Explanation: compute tip and tax from percentages, add to meal cost, then use Math.round to get the nearest whole total cost.
 
-/* By: Vadanta Kumar Chauhaan
+/*
+ * Author: Vadanta Kumar Chauhaan
  * HackerRank: https://www.hackerrank.com/profile/codegrounds666
  * GitHub: https://github.com/VedisVigourous
- * Contact vadanta592007@hotmail.com
+ * LinkedIn: https://www.linkedin.com/in/vadanta
+ * Contact: vadanta592007@hotmail.com
+ * Copyright (c) 2026 Vadanta Kumar Chauhaan. All rights reserved.
  */

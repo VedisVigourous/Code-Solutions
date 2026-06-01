@@ -1,4 +1,6 @@
-/*
+﻿
+
+/* 
  * Day 14: Scope
  * Link: https://www.hackerrank.com/challenges/30-scope 
  * Difficulty: Easy
@@ -68,8 +70,13 @@ public class Solution {
       4. Store the result in maximumDifference and print it
 */
 
-/* By: Vadanta Kumar Chauhaan
+
+
+/*
+ * Author: Vadanta Kumar Chauhaan
  * HackerRank: https://www.hackerrank.com/profile/codegrounds666
  * GitHub: https://github.com/VedisVigourous
- * Contact vadanta592007@hotmail.com
+ * LinkedIn: https://www.linkedin.com/in/vadanta
+ * Contact: vadanta592007@hotmail.com
+ * Copyright (c) 2026 Vadanta Kumar Chauhaan. All rights reserved.
  */

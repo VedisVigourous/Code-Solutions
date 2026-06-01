@@ -1,4 +1,6 @@
-/*
+﻿
+
+/* 
  * Day 20: Sorting
  * Link: https://www.hackerrank.com/challenges/30-sorting
  * Difficulty: Easy
@@ -58,8 +60,13 @@ public class Solution {
       4. Print the total swaps, first element, and last element
 */
 
-/* By: Vadanta Kumar Chauhaan
+
+
+/*
+ * Author: Vadanta Kumar Chauhaan
  * HackerRank: https://www.hackerrank.com/profile/codegrounds666
  * GitHub: https://github.com/VedisVigourous
- * Contact vadanta592007@hotmail.com
+ * LinkedIn: https://www.linkedin.com/in/vadanta
+ * Contact: vadanta592007@hotmail.com
+ * Copyright (c) 2026 Vadanta Kumar Chauhaan. All rights reserved.
  */

@@ -1,4 +1,6 @@
-/*
+﻿
+
+/* 
  * Day 25: Running Time and Complexity
  * Link: https://www.hackerrank.com/challenges/30-running-time-and-complexity
  * Difficulty: Medium
@@ -49,7 +51,7 @@ public class Solution {
 
  Example (n = 36):
  - sqrt(36) = 6, so test 2,3,4,5,6.
- - 36 % 2 == 0 (2 * 18) so 36 is not prime — we can stop.
+ - 36 % 2 == 0 (2 * 18) so 36 is not prime â€” we can stop.
  
  - Note: If we do not follow the sqrt(n) rule we would double check all the numbers that is: 
  - 2 * 18 = 18 * 2 
@@ -65,8 +67,13 @@ public class Solution {
 
 
 
-/* By: Vadanta Kumar Chauhaan
+
+
+/*
+ * Author: Vadanta Kumar Chauhaan
  * HackerRank: https://www.hackerrank.com/profile/codegrounds666
  * GitHub: https://github.com/VedisVigourous
- * Contact vadanta592007@hotmail.com
+ * LinkedIn: https://www.linkedin.com/in/vadanta
+ * Contact: vadanta592007@hotmail.com
+ * Copyright (c) 2026 Vadanta Kumar Chauhaan. All rights reserved.
  */

@@ -1,3 +1,5 @@
+﻿
+
 /* 
  * Day 10: Binary Numbers
  * Link: https://www.hackerrank.com/challenges/30-binary-numbers
@@ -80,10 +82,10 @@ public class Solution {
    -- Example: n = 13
       - Binary representation: 1101
       - Iteration process:
-        * Index 0: '1' → currentCount=1, maxCount=1
-        * Index 1: '1' → currentCount=2, maxCount=2
-        * Index 2: '0' → currentCount=0, maxCount=2
-        * Index 3: '1' → currentCount=1, maxCount=2
+        * Index 0: '1' â†’ currentCount=1, maxCount=1
+        * Index 1: '1' â†’ currentCount=2, maxCount=2
+        * Index 2: '0' â†’ currentCount=0, maxCount=2
+        * Index 3: '1' â†’ currentCount=1, maxCount=2
       - Result: Maximum consecutive 1's = 2
       
    -- Key Points:
@@ -95,8 +97,13 @@ public class Solution {
 
 // =================================================================================== //
 
-/* By: Vadanta Kumar Chauhaan
+
+
+/*
+ * Author: Vadanta Kumar Chauhaan
  * HackerRank: https://www.hackerrank.com/profile/codegrounds666
  * GitHub: https://github.com/VedisVigourous
- * Contact vadanta592007@hotmail.com
+ * LinkedIn: https://www.linkedin.com/in/vadanta
+ * Contact: vadanta592007@hotmail.com
+ * Copyright (c) 2026 Vadanta Kumar Chauhaan. All rights reserved.
  */
