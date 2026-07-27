@@ -1,4 +1,4 @@
-/* Problem: Two Sum
+/* Problem: 1 Two Sum
    Link: https://leetcode.com/problems/two-sum/
    Difficulty: Easy 
    Language Used: Java*/
@@ -27,7 +27,7 @@ class Solution {
 
 /*
  * Author: Vadanta Kumar Chauhaan
- * HackerRank: https://leetcode.com/u/vedisvigourous/
+ * LeetCode: https://leetcode.com/u/vedisvigourous/
  * GitHub: https://github.com/VedisVigourous
  * LinkedIn: https://www.linkedin.com/in/vadanta
  * Contact: vadanta592007@hotmail.com
