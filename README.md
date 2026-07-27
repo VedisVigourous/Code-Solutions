@@ -9,6 +9,7 @@
 [![Status: Active](https://img.shields.io/badge/Status-Active-27AE60)](#)
 [![Platform: HackerRank](https://img.shields.io/badge/Platform-HackerRank-2EC866?logo=hackerrank&logoColor=white)](https://www.hackerrank.com)
 [![Platform: CodeChef](https://img.shields.io/badge/Platform-CodeChef-5B4638?logo=codechef&logoColor=white)](https://www.codechef.com)
+[![Platform: LeetCode](https://img.shields.io/badge/Platform-LeetCode-FFA116?logo=codechef&logoColor=white)](https://www.leetcode.com)
 
 </div>
 
